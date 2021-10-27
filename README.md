@@ -52,9 +52,9 @@ ___
 ## Screenshots/Videos
 ___
 
-![screencapture-jeffery-note-maker-herokuapp-2021-10-15-01_32_10](asset\seed-start.png))
-)
-![Start2](asset\seed-start-2.png)
+![seed start](https://user-images.githubusercontent.com/87153472/138999519-bf309179-ba7f-48f9-a519-a149ac2de9bd.png)
+![seed-start-2](https://user-images.githubusercontent.com/87153472/138999465-38982eee-d18f-47b0-be42-38e5de1ba104.png)
+
 [Walkthough Video](https://watch.screencastify.com/v/9UEwxp82UJtegGvhefFp)
 
 ## Usage
@@ -69,6 +69,7 @@ The user enter their mysql password
 source db/schema.sql
 
 Get init
+
 
 quit
 
