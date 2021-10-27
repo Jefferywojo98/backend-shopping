@@ -52,7 +52,8 @@ ___
 ## Screenshots/Videos
 ___
 
-![Start](asset\seed-start.png)
+![screencapture-jeffery-note-maker-herokuapp-2021-10-15-01_32_10](asset\seed-start.png))
+)
 ![Start2](asset\seed-start-2.png)
 [Walkthough Video](https://watch.screencastify.com/v/9UEwxp82UJtegGvhefFp)
 
